@@ -1,5 +1,4 @@
 <?php 
-    if (isset($_REQUEST["act"]) && $_REQUEST["act"] == "save" && $nome != "") {
         try {
             require_once 'conexao.php';
             if(isset($_POST['nome-fornecerdor'], $_POST['email-de-contato'])){
@@ -25,8 +24,5 @@
             }
         }catch (PDOException $erro) {
             echo "Erro: " . $erro->getMessage();
-        }   
-    }else{
-        echo 'Nenhum dado foi informado';
-    }
+        }
 ?>

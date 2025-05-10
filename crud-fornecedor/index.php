@@ -16,10 +16,14 @@
                 <br>
                 <label class="rotulo" for="email-de-contato">Email do fornecedor:</label>
                 <input class="caixadeentrada" type="email" id="email-de-contato" name="email-de-contato" placeholder="Ex: fornercerdor123@gmail.com">
-                <button type="submit">Cadastrar fornecerdor
+                <button class="botoes" type="submit">Cadastrar fornecerdor
+                </button>
+            </form>    
         </div>        
-    </div>   
-        </button>
-    </form>
+    
+        <form action="exibir.php">
+            <input class="botao-secundario" type="submit" value="Ver meus cadastros">
+        </form>
+    </div>
 </body>
 </html>
