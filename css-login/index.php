@@ -18,8 +18,7 @@
         <input type="submit" value="Entrar" class="botoes">
         </form>
         <div id="div-link">
-        <p>Não tem conta?</p>
-        <a href="#">Cadastre-se</a>
+        <p>Não tem conta?<a id="link-cadastro" href="#">Cadastre-se</a></p>  
         </div>
     </div>
     <div id="imagem-lateral">
