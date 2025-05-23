@@ -10,7 +10,7 @@
     <div id="tela-de-login">
     <div id="login">
         <h1>Login</h1>
-        <form action="" method="post">
+        <form action="login.php" method="post">
         <label class="rotulo" for="cnpj">CNPJ:</label>
         <input type="text" name="cnpj" class="estilo-input" placeholder="Ex: 01.234.567/0001-89">
         <label class="rotulo" for="senha">Senha:</label>
