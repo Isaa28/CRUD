@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
+  <diagram name="Página-1" id="z_fpFyYNm9YHtEuhNnv4">
+    <mxGraphModel dx="1364" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="480" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-2" value="Sistema de controle de estoque" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="207" y="50" width="386" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ke7lT3OouCT4yMKoHcO6-8" target="ke7lT3OouCT4yMKoHcO6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ke7lT3OouCT4yMKoHcO6-8" target="ke7lT3OouCT4yMKoHcO6-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ke7lT3OouCT4yMKoHcO6-8" target="ke7lT3OouCT4yMKoHcO6-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ke7lT3OouCT4yMKoHcO6-8" target="ke7lT3OouCT4yMKoHcO6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ke7lT3OouCT4yMKoHcO6-8" target="ke7lT3OouCT4yMKoHcO6-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-8" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="325" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ke7lT3OouCT4yMKoHcO6-18" target="ke7lT3OouCT4yMKoHcO6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ke7lT3OouCT4yMKoHcO6-18" target="ke7lT3OouCT4yMKoHcO6-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ke7lT3OouCT4yMKoHcO6-18" target="ke7lT3OouCT4yMKoHcO6-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ke7lT3OouCT4yMKoHcO6-18" target="ke7lT3OouCT4yMKoHcO6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ke7lT3OouCT4yMKoHcO6-18" target="ke7lT3OouCT4yMKoHcO6-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-18" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="325" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-19" value="Cadastrar-se" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7E70FF);" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-20" value="Cadastrar produtos" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7E70FF);" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-21" value="Cadastrar fornecedores" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7E70FF);" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-22" value="Cadastrar categorias" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7E70FF);" vertex="1" parent="1">
+          <mxGeometry x="260" y="385" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-23" value="Controlar as entradas e saídas de produtos" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7E70FF);" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-24" value="Atualizar automática da quantidade de produtos disponíveis" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7E70FF);" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-25" value="Gerar alertas de estoque mínimo" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7E70FF);" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-26" value="Gerar relatórios e consultas da movimentação" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7E70FF);" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-27" value="Gerar relatório de estoque atual" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7E70FF);" vertex="1" parent="1">
+          <mxGeometry x="420" y="385" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7lT3OouCT4yMKoHcO6-28" value="Fornecer backup e recuperação de dados" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7E70FF);" vertex="1" parent="1">
+          <mxGeometry x="420" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
