@@ -39,7 +39,7 @@
 
 h1 {
     font-size: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 80px;
 }
 
 .rotulo {
@@ -113,7 +113,7 @@ h1 {
 }
 
 #link-cadastro:hover {
-    color: #00FFFF;
+    color: #0FA9A9;
 }
 
 #logo {

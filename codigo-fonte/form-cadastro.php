@@ -5,13 +5,12 @@
                 $nomeEmpresa = $_POST['nome-empresa'];
                 $cnpj = $_POST['cnpj'];
                 $senha = $_POST['senha'];
-                $stmt = $conexao->prepare(query:'INSERT INTO  (Nome_da_empresa, cnpj, Senha) VALUES (:nome, :senha)');
+                $stmt = $conexao->prepare(query:'INSERT INTO usuario (Nome_da_empresa, cnpj, Senha) VALUES (:nome, :cnpj, :senha)');
                 $stmt->bindValue(':nome', $nomeEmpresa); 
                 $stmt->bindValue(':cnpj', $cnpj);
                 $stmt->bindValue(':senha', $senha);
                 if($stmt->execute()){
                     if($stmt->rowCount() > 0){
-                        echo 'Dados cadastrados com sucesso!';
                         $id = null;
                         $nomeEmpresa = null;
                         $cnpj = null;
