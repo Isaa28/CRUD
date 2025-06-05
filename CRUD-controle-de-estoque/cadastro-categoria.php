@@ -8,30 +8,30 @@
     <link rel="stylesheet" href="assets/css/cadastros.css">
 </head>
 <body>
-        <menu id="menu">
-            <div id="logo">
-                <img width = "110px" src="assets/imagens/logo.png" alt="Logo">
+    <menu id="menu">
+        <div id="logo">
+            <img width = "110px" src="assets/imagens/logo.png" alt="Logo">
+        </div>
+        <div id="menu-links">
+            <li><a href="tela-inicial.php">Home</a></li>
+            <li><a href="#">Entradas</a></li>
+            <li><a href="#">Saídas</a></li>
+            <li><a href="#">Produtos</a></li>
+            <li><a href="#">Fornecedores</a></li>
+            <li><a href="#">Categorias</a></li>
+            <div>
+                <button id="botao-perfil">
+                <img width="40px" src="assets/imagens/icon-perfil.svg" alt="Seu perfil">
+                </button>
             </div>
-            <div id="menu-links">
-                <li><a href="tela-inicial.php">Home</a></li>
-                <li><a href="#">Entradas</a></li>
-                <li><a href="#">Saídas</a></li>
-                <li><a href="#">Produtos</a></li>
-                <li><a href="#">Fornecedores</a></li>
-                <li><a href="#">Categorias</a></li>
-                <div>
-                    <button id="botao-perfil">
-                        <img width="40px" src="assets/imagens/icon-perfil.svg" alt="Seu perfil">
-                    </button>
-                </div>
-            </div>
+        </div>
         </menu>
     <div id="tela-cadastro">
         <div id="imagem-lateral">
             <img id="imagem-cadastro" src="assets/imagens/imagem-categorias.png" alt="">
         </div>
         <div id="caixa-cadastro">
-            <h1 id="titulo">Cadastro de fornecedor</h1>
+            <h1 id="titulo">Cadastro de categoria</h1>
         <?php
             require_once "protect.php";
             require_once "conexao.php";
